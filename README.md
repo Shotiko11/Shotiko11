@@ -7,7 +7,7 @@
 # Hi there 👋, I am Shota Kokilashvili
 ## Fullstack Web Developer
 
-I have expert knowledge and experience in building complex, modern and responsive friendly websites. I work in Money4you.financial as a Full Stack Web Developer. I really enjoy learning languages and frameworks like React and Next.js. You can get acquainted with the experience and additional projects gained in Web development through my GitHub profile & [Company Website](https://mc-zero.one/porfolio/) 🤲
+I have expert knowledge and experience in building complex, modern and responsive friendly websites. I work in Money4you.financial as a Full Stack Web Developer. I really enjoy learning languages and frameworks like React and Next.js. You can get acquainted with the experience and additional projects gained in Web development through my GitHub profile & [Company Website](https://alpha.money4you.financial/) 🤲
 
 ### Skills & Experiences: 
 
@@ -22,7 +22,8 @@ I have expert knowledge and experience in building complex, modern and responsiv
 - freecodecamp.org - Responsive Web Design
 - freecodecamp.org - Javascript Algorithms & Data Structures
 - freecodecamp.org - Front End Development Libraries
-
+- digitaledu.ge - Front end course for Javascipt and React.JS
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="pavelfaraday" /> </p>
 
 <p align="left"></p>
