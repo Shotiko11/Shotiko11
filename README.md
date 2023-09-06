@@ -57,21 +57,6 @@ I have expert knowledge and experience in building complex, modern and responsiv
 			height="40"
 		/>
 	</a>
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-			alt="bootstrap"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-		<img 
-		     src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
-		     alt="tailwind" 
-		     width="40" 
-		     height="40"/> 
-	</a>
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -92,13 +77,6 @@ I have expert knowledge and experience in building complex, modern and responsiv
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
 			alt="redux"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://mobx.js.org/" target="_blank" rel="noreferrer">
-		<img src="https://camo.githubusercontent.com/0dc3b9afa37acc792f49624b1f8dd364b55c9107167fd291ffde1d81917aceba/68747470733a2f2f6d6f62782e6a732e6f72672f6173736574732f6d6f62782e706e67"
-			alt="mobX"
 			width="40"
 			height="40"
 		/>
@@ -145,26 +123,6 @@ I have expert knowledge and experience in building complex, modern and responsiv
 		<img
 			src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
 			alt="postman"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a
-		href="https://azure.microsoft.com/en-in/"
-		target="_blank"
-		rel="noreferrer"
-	>
-		<img
-			src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-			alt="azure"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-			alt="photoshop"
 			width="40"
 			height="40"
 		/>
