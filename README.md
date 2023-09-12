@@ -141,7 +141,6 @@ I have expert knowledge and experience in building complex, modern and responsiv
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shotiko11&" alt="Shotiko11" /></p>  <br>
 
 
 
