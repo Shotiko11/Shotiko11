@@ -11,9 +11,9 @@ I have expert knowledge and experience in building complex, modern and responsiv
 
 ### Skills & Experiences: 
 
-* HTML / CSS / JavaScript /REACT / Next.js / TypeScript ⚛️
+* REACT / Next.js / TypeScript ⚛️
 * PHP / MySQL 💾 
-* HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / Material UI 💻
+* HTML / CSS / JS / SASS / Material UI 💻
 
 ### [Certifications](https://github.com/pavelFaraday/Certifications):
 
