@@ -37,6 +37,7 @@ I have expert knowledge and experience in building complex, modern and responsiv
 			width="40"
 			height="40"
 		/>
+		<div></div>
 	</a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 		<img
