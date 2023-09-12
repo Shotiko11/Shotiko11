@@ -4,14 +4,14 @@
 
 <img align="right" width="400" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-# Hi there 👋, I am Giorgi Epitashvili
+# Hi there 👋, I am Shota Kokilashvili
 ## Fullstack Web Developer
 
 I have expert knowledge and experience in building complex, modern and responsive friendly websites. I work in [MC-ZERO.ONE](https://mc-zero.one/) as Full Stack Web Developer & develop fully fledged platforms. I really enjoy learning languages and frameworks like React and Next.js, as well as work in WordPress. You can get acquainted with the experience and additional projects gained in Web development through my GitHub profile & [Company Website](https://mc-zero.one/porfolio/) 🤲
 
 ### Skills & Experiences: 
 
-* REACT / Context API / REDUX / REDUX Toolkit / MobX / Next.js / TypeScript ⚛️
+* HTML / CSS / JavaScript /REACT / Next.js / TypeScript ⚛️
 * PHP / MySQL 💾 
 * HTML / CSS / JS / JQUERY / BOOTSTRAP / SASS / Material UI 💻
 
