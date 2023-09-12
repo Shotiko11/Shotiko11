@@ -22,8 +22,9 @@ I have expert knowledge and experience in building complex, modern and responsiv
 - freecodecamp.org - Responsive Web Design
 - freecodecamp.org - Javascript Algorithms & Data Structures
 - freecodecamp.org - Front End Development Libraries
+- digitaledu.ge - Javascript and React.js
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="pavelfaraday" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="Shotiko11" /> </p>
 
 <p align="left"></p>
 
@@ -181,7 +182,7 @@ I have expert knowledge and experience in building complex, modern and responsiv
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavelfaraday&" alt="pavelfaraday" /></p>  <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shotiko11&" alt="Shotiko11" /></p>  <br>
 
 
 
