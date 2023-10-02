@@ -2,7 +2,7 @@
 
 
 
-<img align="right" width="400" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="300" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # Hi there 👋, I am Shota Kokilashvili
 ## Fullstack Web Developer
