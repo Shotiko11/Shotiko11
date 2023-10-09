@@ -10,10 +10,9 @@
 I have expert knowledge and experience in building complex, modern and responsive friendly websites. I work in [MC-ZERO.ONE](https://mc-zero.one/) as Full Stack Web Developer & develop fully fledged platforms. I really enjoy learning languages and frameworks like React and Next.js, as well as work in WordPress. You can get acquainted with the experience and additional projects gained in Web development through my GitHub profile & [Company Website](https://mc-zero.one/porfolio/) 🤲
 
 ### Skills & Experiences: 
-
+* HTML / CSS / JS / SASS / Material UI 💻
 * REACT / Next.js / TypeScript ⚛️
 * PHP / MySQL 💾 
-* HTML / CSS / JS / SASS / Material UI 💻
 
 ### [Certifications](https://github.com/pavelFaraday/Certifications):
 
