@@ -23,7 +23,7 @@ I have expert knowledge and experience in building complex, modern and responsiv
 - freecodecamp.org - Front End Development Libraries
 - digitaledu.ge - Javascript and React.js
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="Shotiko11"  width="400px"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="Shotiko11"  width="100px"/> </p>
 
 <p align="left"></p>
 
